@@ -6,8 +6,8 @@ import mimetypes
 
 email_password = open('pass','r').read()
 
-email_origin = 'diego.ads.freelancer@gmail.com'
-email_destination = ('dxdiegofelipe@hotmail.com')
+email_origin = 'xxxxxxxx@gmail.com'
+email_destination = ('xxxxxxxx@hotmail.com')
 
 subject = 'ORÇAMENTO'
 
